@@ -1,0 +1,4 @@
+
+		{"Invisible", function()
+			for _, p in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+				if p:IsA("BasePart") and p.Name ~= "HumanoidRootPart" then p.Transparency = 1 end
