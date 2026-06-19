@@ -112,6 +112,6 @@ AddButton(Tab1o, {
 AddButton(Tab1o, {
      Name = "AIMBOT",
     Callback = function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Flanut/Universal/refs/heads/main/Universal%20Better.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/parasopsays/Jam/refs/heads/main/beef"))()
   end
   })
